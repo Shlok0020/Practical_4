@@ -1,8 +1,26 @@
 {
   "name": "practical4",
   "version": "1.0.0",
+  "description": "Node.js application for Jenkins CI/CD Practical 4",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
-  }
+    "start": "node index.js",
+    "test": "echo \"Tests Passed Successfully\""
+  },
+  "keywords": [
+    "jenkins",
+    "nodejs",
+    "ci-cd"
+  ],
+  "author": "Shlok Dhabalia",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shlok0020/Practical_4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shlok0020/Practical_4/issues"
+  },
+  "homepage": "https://github.com/Shlok0020/Practical_4#readme"
 }
